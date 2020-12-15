@@ -1,5 +1,5 @@
 {
-  "name": "nep407/neberitubku",
+  "name": "nep407/neberitrubku",
   "description": "detect spam by phone number",
   "require": {
     "ext-curl": "^7.3",
