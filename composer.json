@@ -10,5 +10,10 @@
       "name": "Nep",
       "email": "nep407@gmail.com"
     }
-  ]
+  ],
+  "autoload": {
+    "psr-4": {
+      "Neberitrubku\\": ""
+    }
+  }
 }
