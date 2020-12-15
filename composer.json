@@ -1,0 +1,14 @@
+{
+  "name": "nep407/neberitubku",
+  "description": "detect spam by phone number",
+  "require": {
+    "ext-curl": "^7.3",
+    "ext-json": "*"
+  },
+  "authors": [
+    {
+      "name": "Nep",
+      "email": "nep407@gmail.com"
+    }
+  ]
+}
